@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                           💫 About Me:
 🚀 I'm currently working on: full-stack projects using React, Node.js, and MySQL<br><br>🤝 I'm looking to collaborate on: open-source or educational tech projects<br><br>💡 I can help you with: HTML, CSS, JavaScript, Arduino with C++, Git, GitHub, REST APIs, and MySQL<br><br>🌱 I'm currently learning: advanced Python scripting and improving my Git workflows<br><br>💬 Ask me about: HTML, CSS, JavaScript, Arduino with C++, or building REST APIs with Express<br><br>⚡ Fun fact: I enjoy combining hardware and software to create real-world solutions
 
 
